@@ -138,7 +138,7 @@ const ContactSection = () => {
       <div className="flex flex-wrap justify-center gap-8">
         {/* LinkedIn */}
         <a
-          href="https://www.linkedin.com/in/smusamag"
+          href="https://www.linkedin.com/in/smusamagbukhari"
           target="_blank"
           rel="noopener noreferrer"
           className="group/icon"
